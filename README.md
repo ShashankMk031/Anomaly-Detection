@@ -16,6 +16,6 @@
   - Split into 70% training and 30% test sets
   
 3. Evaluation Metrics Summary:
-- Precision: 0.998
-- Recall: 0.900
+- Precision: 0.900
+- Recall: 1.000
 - F1-score: 0.947
