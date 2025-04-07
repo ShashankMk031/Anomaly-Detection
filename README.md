@@ -18,4 +18,7 @@
 3. Evaluation Metrics Summary:
 - Precision: 0.900
 - Recall: 1.000
-- F1-score: 0.947
+- F1-score: 0.947 
+
+4. Creating scaler.pkl and model.pkl for API deployement 
+5. Delpoyement of the model in local server using Flask
